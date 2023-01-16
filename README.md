@@ -4,7 +4,7 @@ Racing Game app on OpenShift
 Steps to deploy on openshift
 
 ```
-git clone https://github.com/ksingh7/racing-game-app-openshift.git
+git clone https://github.com/ritzshah/racing-game-app-openshift.git
 cd racing-game-app-openshift
 git checkout dev
 ```
